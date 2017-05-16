@@ -1,5 +1,6 @@
 import webbrowser
 
+# A class for movies that includes a function to open up its movie trailer
 class Movie():
     def __init__(self, title, poster_image_url, trailer_youtube_url):
 
